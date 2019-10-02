@@ -115,7 +115,7 @@ Slightly modified version of Sun Checks that better matches the default code for
     <module name="RegexpSingleline">
         <property name="severity" value="ignore"/>
         <property name="format" value="\s+$"/>
-        <property name="msge" value="Line has trailing spaces."/>
+        <property name="message" value="Line has trailing spaces."/>
         <metadata name="net.sf.eclipsecs.core.lastEnabledSeverity" value="inherit"/>
     </module>
 </module>
